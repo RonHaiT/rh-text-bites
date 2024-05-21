@@ -1,5 +1,6 @@
-appId: com.electron.app
-productName: rh-text-bites
+appId: com.ronhai.text
+productName: 隆海文本片段
+copyright: 2024, 隆海文本片段
 directories:
   buildResources: build
 files:
